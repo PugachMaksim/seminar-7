@@ -1,0 +1,30 @@
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.csproj.AssemblyReference.cache
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.AssemblyInfoInputs.cache
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.AssemblyInfo.cs
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.csproj.CoreCompileInputs.cache
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50.exe
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50.deps.json
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50.runtimeconfig.json
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50.dll
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50.pdb
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.dll
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/refint/zadacha 50.dll
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.pdb
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.genruntimeconfig.cache
+C:/Users/pugac/OneDrive/Рабочий стол/IT/C#/seminar 7/zadacha 50/obj/Debug/net7.0/ref/zadacha 50.dll
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50.deps.json
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50.runtimeconfig.json
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50.dll
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/bin/Debug/net7.0/zadacha 50.pdb
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.csproj.AssemblyReference.cache
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.AssemblyInfoInputs.cache
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.AssemblyInfo.cs
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.csproj.CoreCompileInputs.cache
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.dll
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/refint/zadacha 50.dll
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.pdb
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/zadacha 50.genruntimeconfig.cache
+/Users/valentinanemkova/Desktop/IT/C#/C#/seminar 7/zadacha 50/obj/Debug/net7.0/ref/zadacha 50.dll
